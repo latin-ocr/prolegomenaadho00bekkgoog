@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prolegomenaadho00bekkgoog_0529.png"; bbox 0 0 2734 4000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 306 2634 1666 2773">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 306 2634 1666 2773">
+     <span class='ocr_line' id='line_1_1' title="bbox 306 2634 1666 2773; baseline 0.007 -75"><span class='ocrx_word' id='word_1_1' title='bbox 306 2639 496 2773; x_wconf 46' lang='grc' dir='ltr'><em>σαν]</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 592 2634 977 2702; x_wconf 44' lang='grc' dir='ltr'><em>θλψᾰμκ.ω</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1018 2648 1150 2707; x_wconf 38' lang='grc' dir='ltr'><em>,μή</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1201 2644 1382 2724; x_wconf 53' lang='lat' dir='ltr'><em>ſsu„</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1437 2638 1666 2732; x_wconf 50' lang='lat' dir='ltr'><em>&amp;mſs</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
